@@ -17,6 +17,7 @@ Transcollines utilise cette liste de distribution pour informer les développeur
 ## Téléchargement des données:
 - Fichier tripUpdates: [http://67.212.79.244:8080/hermes_st_Transcollines/pb/tripUpdates.pb](http://67.212.79.244:8080/hermes_st_Transcollines/pb/tripUpdates.pb)
 - Fichier vehiclePositions: [http://67.212.79.244:8080/hermes_st_Transcollines/pb/vehiclePositions.pb](http://67.212.79.244:8080/hermes_st_Transcollines/pb/vehiclePositions.pb)
+
 **En utilisant les données GTFS-Realtime, vous acceptez les conditions d'utilisation détaillées dans le fichier `licence.md`**
 ## Registre des applications
 Vous avez créé un outil utilisant les données ouvertes de Transcollines? Nous avons l'intention d'éventuellement créer une galerie d'applications sur notre site web et aimerions y présenter votre application! Informez-nous de votre application [ici!](https://forms.office.com/Pages/ResponsePage.aspx?id=E7Fe_cNXKEamfise0d6K-7z88p3eAzZIns4uRERv9ZRUMVk0Wko5VEhINlBNSjY1TkUwU0Y2N1FIQy4u)
