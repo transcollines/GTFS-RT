@@ -21,4 +21,4 @@ Transcollines utilise cette liste de distribution pour informer les développeur
 **En utilisant les données GTFS-Realtime, vous acceptez les conditions d'utilisation détaillées dans le fichier `licence.md`**
 ## Registre des applications
 Vous avez créé un outil utilisant les données ouvertes de Transcollines? Nous avons l'intention d'éventuellement créer une galerie d'applications sur notre site web et aimerions y présenter votre application! Informez-nous de votre application [ici!](https://forms.office.com/Pages/ResponsePage.aspx?id=E7Fe_cNXKEamfise0d6K-7z88p3eAzZIns4uRERv9ZRUMVk0Wko5VEhINlBNSjY1TkUwU0Y2N1FIQy4u)
-### Transcollines vous remercie pour votre contribution à la mobilité dans le MRC des Collines-de-l'Outaouais!
+### Transcollines vous remercie pour votre contribution à la mobilité dans l'Outaouais Rural!
