@@ -15,7 +15,9 @@ Transcollines utilise cette liste de distribution pour informer les développeur
 **Assurez-vous de lire les conditions d'utilisation (situées dans le fichier LICENCE.md) avant de commencer à utiliser les données en temps réel de Transcollines.**
 
 ## Téléchargement des données:
-*Les données en temps réel sont indisponibles jusqu'à nouvel ordre pour des raisons administratives. Nous vous encourageons à [vous inscrire à la liste de distribution](https://forms.office.com/Pages/ResponsePage.aspx?id=E7Fe_cNXKEamfise0d6K-7z88p3eAzZIns4uRERv9ZRUNFRTMVM0OFo1NjhMR0ZINEhFUDdVQzU2Uy4u) afin d'être tenu au courant des plus récentes informations à ce sujet. Nous nous excusons pour les inconvénients.*
+- Fichier tripUpdates: [http://67.212.79.244:8080/hermes_st_Transcollines/pb/tripUpdates.pb](http://67.212.79.244:8080/hermes_st_Transcollines/pb/tripUpdates.pb)
+- Fichier vehiclePositions: [http://67.212.79.244:8080/hermes_st_Transcollines/pb/vehiclePositions.pb](http://67.212.79.244:8080/hermes_st_Transcollines/pb/vehiclePositions.pb)
+
 
 **En utilisant les données GTFS-Realtime, vous acceptez les conditions d'utilisation détaillées dans le fichier `licence.md`**
 ## Registre des applications
