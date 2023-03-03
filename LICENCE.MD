@@ -1,4 +1,6 @@
 # Conditions d'utilisation - Données ouvertes en temps réel de Transcollines
+> Dernière mise à jour: 3 mars 2023
+
 La Régie intermunicipale de transport des Collines (RITC), connue sous le nom de Transcollines, met à la disposition des développeurs, un accès libre, sans redevance ni exclusivité, à ses données ouvertes en temps réel, et autorise à des fins personnelles ou commerciales, l'utilisation, la reproduction, l'exploitation et l'inclusion de ses données ouvertes en temps réel dans un produit, un service Internet ou une application mobile de façon à en favoriser la diffusion pour le bénéfice de la population partout dans le monde.
 
 En accédant, téléchargeant ou utilisant de quelque façon et à quelque fin que ce soit les données ouvertes en temps réel de la RITC, le développeur déclare avoir lu et compris les obligations et modalités des présentes Conditions d'utilisation.
@@ -38,10 +40,28 @@ La RITC recommande au développeur de consulter au besoin les multiples sources 
 * https://developers.google.com/transit/gtfs-realtime/ (en anglais seulement)
 
 La RITC ou ses employés ne peuvent être tenus responsables de tout type de dommage prévisible ou imprévisible (incluant la perte de profits ou d'opportunités) découlant de l'utilisation ou de l'impossibilité totale ou partielle d'utiliser les données ouvertes en temps réel de la RITC.
+## Données des utilisateurs
+Le développeur qui fait usage des données ouvertes de la RITC s'engage à ne pas transférer, vendre ou commercialiser les données des utilisateurs. Les données des utilisateurs ne peuvent être divulguées publiquement sans l'approbation écrite préalable de la RITC, laquelle approbation peut être refusée pour tout motif, à la seule discrétion de la RITC.
+## Clés d'API
+Afin d'accéder aux données ouvertes en temps réel de la RITC, le développeur doit posséder une clé d'API qui lui a été émise par la RITC.
+* L'accès au service API est offert gratuitement et de façon révocable. **Le nombre de clé API est limité à une seule, par développeur.** 
+* La RITC se réserve le droit de d'imposer une limitation au nombre de connexions ou appels à l'API, et ce sans préavis.
+* La RITC est en droit de refuser à un développeur toute demande de clé API.
+* La RITC est également en droit d'annuler ou de suspendre l'accès au développeur à une clé API, sans préavis, si elle juge que les conditions d'utilisation n'ont pas été respectées ou ont porté préjudice à la RITC ou ses partenaires, ou pour les raisons suivantes, sans s'y limiter :
+* entraver ou perturber les services ou serveurs de la RITC et/ou de ses partenaires
+* contourner ou modifier les clés API;
+* demander l'accès à un compte/une clé API pour le compte d'autres développeurs;
+* transférer une clé API à un autre développeur;
+* accéder sans autorisation à un compte API enregistré;
+* détenir plus d'une clé API, peu importe les moyens utilisés;
+* permettre sans son autorisation l'identification d'un développeur du service API;
+* transmettre des logiciels destructeurs connectés au service API.
+
+Pour obtenir une clé d'API, le développeur doit dûment compléter [le formulaire prévu à cet effet](https://forms.office.com/r/cWUsTzwVZn).
 ## Autres dispositions
 La nullité de l’un des articles des présentes n’a pas pour effet d’annuler les présentes Conditions d’utilisation qui devront alors être lues comme si ledit article n’y était pas inscrit.
 
-La RITC ne peut être considérée en défaut en vertu des présentes Conditions d’utilisation si l’exécution, en tout ou en partie, est retardée ou empêchée par suite d’une situation de force majeure ou toute autre cause hors de son contrôle.
+La RITC ou ses partenaires ne peuvent être considérés en défaut en vertu des présentes Conditions d’utilisation si l’exécution, en tout ou en partie, est retardée ou empêchée par suite d’une situation de force majeure ou toute autre cause hors de leur contrôle.
 ## Demeurez informés
 La RITC recommande à l’utilisateur des données ouvertes en temps réel de la RITC de s’inscrire au courriel d’information afin de recevoir périodiquement le détail des plus récentes mises à jour de ses fichiers GTFS ainsi que toute autre information pertinente concernant le développement et l’accessibilité des données ouvertes de la RITC.
 [Cliquez ici pour vous inscrire à la liste de distribution des développeurs de la RITC (environ un courriel aux deux mois)](https://forms.office.com/Pages/ResponsePage.aspx?id=E7Fe_cNXKEamfise0d6K-7z88p3eAzZIns4uRERv9ZRUNFRTMVM0OFo1NjhMR0ZINEhFUDdVQzU2Uy4u)
