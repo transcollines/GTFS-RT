@@ -1,6 +1,8 @@
 # GTFS-Realtime
 Ce répertoire contient les liens pour accéder aux données en temps réel de [Transcollines](https://transcollines.ca).
 
+> Attention: Une mise à jour des conditions d'utilisation des données en temps réel à été effectuée le 3 mars 2023.
+
 ## Format des données
 Les données en temps réel de Transcollines sont produites dans le format standarisé [GTFS-Realtime](https://github.com/google/transit/tree/master/gtfs-realtime). Consultez la spécification officielle [ici](https://github.com/google/transit/tree/master/gtfs-realtime).
 ## Données fournies
@@ -15,9 +17,7 @@ Transcollines utilise cette liste de distribution pour informer les développeur
 **Assurez-vous de lire les conditions d'utilisation (situées dans le fichier LICENCE.md) avant de commencer à utiliser les données en temps réel de Transcollines.**
 
 ## Téléchargement des données:
-- Fichier tripUpdates: [http://67.212.79.244:8080/hermes_st_Transcollines/pb/tripUpdates.pb](http://67.212.79.244:8080/hermes_st_Transcollines/pb/tripUpdates.pb)
-- Fichier vehiclePositions: [http://67.212.79.244:8080/hermes_st_Transcollines/pb/vehiclePositions.pb](http://67.212.79.244:8080/hermes_st_Transcollines/pb/vehiclePositions.pb)
-
+Une clé d'API est maintenant requise pour accéder aux données en temps réel. Pour obtenir une clé d'API, veuillez compléter le [formulaire prévu à cet effet](https://forms.office.com/r/cWUsTzwVZn)
 
 **En utilisant les données GTFS-Realtime, vous acceptez les conditions d'utilisation détaillées dans le fichier `licence.md`**
 ## Registre des applications
